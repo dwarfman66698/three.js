@@ -1,0 +1,9 @@
+{
+  "remote.autoForwardPorts": true,
+  "remote.portsAttributes": {
+    "5173": {
+      "label": "Open Field FPS (Vite)",
+      "onAutoForward": "openBrowser"
+    }
+  }
+}
